@@ -5,18 +5,20 @@
 -- Hiển thị các thông tin: StudentName, SubName, Mark. Dữ liệu sắp xếp theo điểm thi (mark) giảm dần. 
 -- nếu trùng sắp theo tên tăng dần.
 
+-- ****** ĐANG ĐẶT SAI TÊN ĐÚNG LÀ PHẢI NHƯ LĨNH CHỈ (a_b_...)  bài này tập trung câu truy vấn nên 
+-- tạm copy tạo bảng trong thực hành trước cho đồng bộ với đề,chủ yếu hiểu kĩ câu lệnh **********
 use quanlysinhvien;
 -- Hiển thị tất cả các sinh viên có tên bắt đầu bảng ký tự ‘h’
 select *
 from student
-where StudentName like 'h%'
+where StudentName like 'h%';
 -- Hiển thị các thông tin lớp học có thời gian bắt đầu vào tháng 12.
 SELECT Class.ClassName,Class.StartDate FROM class
-WHERE StartDate >= '2008-12-1 00:00:00' AND StartDate < '2009-1-1 00:00:00'
+WHERE StartDate >= '2008-12-1 00:00:00' AND StartDate < '2009-1-1 00:00:00';
 
 -- Hiển thị tất cả các thông tin môn học có credit trong khoảng từ 3-5.
 select * from Subject
-where credit between 3 and 5
+where credit between 3 and 5;
 
 -- Thay đổi mã lớp(ClassID) của sinh viên có tên ‘Hung’ là 2.
 -- truoc tiên ta cho dòng này chạy trước 
@@ -26,7 +28,7 @@ update Student
 set ClassID=2
 where StudentName='Hung';
 -- hiển thi
-select * from student
+select * from student;
 
 -- Hiển thị các thông tin: StudentName, SubName, Mark. Dữ liệu sắp xếp theo điểm thi (mark) giảm dần. 
 -- nếu trùng sắp theo tên tăng dần.
