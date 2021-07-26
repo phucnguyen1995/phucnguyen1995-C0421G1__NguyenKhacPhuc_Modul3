@@ -1,4 +1,4 @@
-
+﻿
 -- B1. Tạo database
 drop database if exists bai5;
 create database bai5;
@@ -84,10 +84,9 @@ begin
 end
 // DELIMITER ;
 	
-    insert into product (product_code,product_name,product_price,product_amount,product_description,product_status)
-              values    ( 'toyota03', 'fortuner', '1000000000', 3, 'xe toyota', 'mới');
+   call add_new_product('toyota03', 'fortuner', '1000000000', 3, 'xe toyota', 'mới');
 
-call add_new_product();
+
 
 drop procedure if exists change_product_id;
 DELIMITER //
