@@ -1,0 +1,14 @@
+h3 {
+    text-align: center;
+}
+
+div {
+    display: block;
+    text-indent: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
