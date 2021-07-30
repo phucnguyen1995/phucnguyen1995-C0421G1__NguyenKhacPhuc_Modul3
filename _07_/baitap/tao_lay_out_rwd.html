@@ -2,9 +2,138 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
+
+    <style>
+        * {
+        box-sizing: border-box;
+        }
+
+        .col-1 {
+        width: 8.33%;
+        }
+
+        .col-2 {
+        width: 16.66%;
+        }
+
+        .col-3 {
+        width: 25%;
+        }
+
+        .col-4 {
+        width: 33.33%;
+        }
+
+        .col-5 {
+        width: 41.66%;
+        }
+
+        .col-6 {
+        width: 50%;
+        }
+
+        .col-7 {
+        width: 58.33%;
+        }
+
+        .col-8 {
+        width: 66.66%;
+        }
+
+        .col-9 {
+        width: 75%;
+        }
+
+        .col-10 {
+        width: 83.33%;
+        }
+
+        .col-11 {
+        width: 91.66%;
+        }
+
+        .col-12 {
+        width: 100%;
+        }
+
+        [class*="col-"] {
+        float: left;
+        padding: 15px;
+        }
+
+        .row::after {
+        content: "";
+        clear: both;
+        display: block;;
+        }
+        .nen-den-chu-trang {
+            background-color: black;
+            color: white;
+        }
+        .nen-den-chu-den {
+            background-color: black;
+            color: black;
+        }
+
+        .phong-to {
+            font-size: 40px;;
+        }
+
+        .o-giua {
+            text-align: center;
+        }
+
+    </style>
 </head>
 <body>
-$END$
+       <div >
+           <div class="col-1 nen-den-chu-trang phong-to">
+               <div class="col-12 o-giua"> Logo</div>
+           </div>
+
+           <div class="col-1 nen-den-chu-trang phong-to">
+               <div class="col-12 o-giua">Home</div>
+           </div>
+
+           <div class="col-1 nen-den-chu-trang phong-to">
+               <div class="col-12 o-giua">About</div>
+           </div>
+
+           <div class="col-1 nen-den-chu-trang phong-to">
+               <div class="col-12 o-giua"> Project </div>
+           </div>
+
+           <div class="col-1 nen-den-chu-trang phong-to">
+               <div class="col-12 o-giua">Contact</div>
+           </div>
+
+           <div class="col-6 nen-den-chu-den phong-to">
+               <div class="col-12 "></div>
+           </div>
+
+           <div class="col-1 nen-den-chu-trang phong-to">
+               <div class="col-12 o-giua">Login</div>
+           </div>
+
+
+       </div>
+
+<div>
+    <div class="col-2">
+        <div class="col-12">
+            <p>link</p>
+            <p>link</p>
+            <p>link</p>
+        </div>
+    </div>
+
+    <div class="col-8"></div>
+
+    <div class="col-2"></div>
+</div>
+<div></div>
+<div></div>
+
 </body>
 </html>

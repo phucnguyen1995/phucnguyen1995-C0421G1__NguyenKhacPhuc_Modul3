@@ -2,9 +2,178 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Title</title>
+    <style>
+        /*cố định*/
+        * {
+            box-sizing: border-box;
+        }
+
+        .col-1 {
+            width: 8.33%;
+        }
+
+        .col-2 {
+            width: 16.66%;
+        }
+
+        .col-3 {
+            width: 25%;
+        }
+
+        .col-4 {
+            width: 33.33%;
+        }
+
+        .col-5 {
+            width: 41.66%;
+        }
+
+        .col-6 {
+            width: 50%;
+        }
+
+        .col-7 {
+            width: 58.33%;
+        }
+
+        .col-8 {
+            width: 66.66%;
+        }
+
+        .col-9 {
+            width: 75%;
+        }
+
+        .col-10 {
+            width: 83.33%;
+        }
+
+        .col-11 {
+            width: 91.66%;
+        }
+
+        .col-12 {
+            width: 100%;
+        }
+
+        [class*="col-"] {
+            float: left;
+            padding: 15px;
+        }
+
+        .row::after {
+            content: "";
+            clear: both;
+            display: block;;
+        }
+
+        /*cố định*/
+        .chu-trang-nen-do {
+            background-color: red;
+            color: white;
+        }
+
+        .phong-to {
+            font-size: 40px;;
+        }
+
+        .nen-dong {
+            background-color: lightgrey;
+        }
+
+        .o-giua {
+            text-align: center;
+        }
+
+        .hien-thi-dong-trang {
+            margin-top: 5px;
+        }
+
+        @media only screen and (max-width: 768px) {
+            [class*="col-"] {
+                width: 100%
+            }
+            
+        }
+
+
+    </style>
 </head>
 <body>
-$END$
+<div>
+    <div class="col-12 phong-to nen-dong">
+        Phim<span class="chu-trang-nen-do"> Hoạt Hình</span>
+    </div>
+
+</div>
+
+<div>
+    <div class="col-12 nen-dong hien-thi-dong-trang">
+        <div class="o-giua">Phim Hoạt Hình | Phim hoạt hình yêu thích | Nhân vật hoạt hình | Góp ý</div>
+    </div>
+
+</div>
+
+<div>
+    <div class="col-3">
+        <div class="col-12">
+            <video controls>
+                <source src="video1.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+            </video>
+            <h4>Welcom đến với khách san NoBi</h4>
+            <h4>Channel Fun</h4>
+        </div>
+
+        <div class="col-12">
+            <video controls>
+                <source src="video1.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+            </video>
+            <h4>Welcom đến với khách san NoBi</h4>
+            <h4>Channel Fun</h4>
+        </div>
+
+        <div class="col-12">
+            <video controls>
+                <source src="video1.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+            </video>
+            <h4>Welcom đến với khách san NoBi</h4>
+            <h4>Channel Fun</h4>
+        </div>
+
+        <div class="col-12">
+            <video controls>
+                <source src="video1.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+            </video>
+            <h4>Welcom đến với khách san NoBi</h4>
+            <h4>Channel Fun</h4>
+        </div>
+
+    </div>
+
+
+    <div class="col-9">
+        <div class="col-12">
+            <video width="100%" controls>
+                <source src="videoto.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+            </video>
+            <h4>Welcom đến với khách san NoBi</h4>
+            <h4>Channel Fun</h4>
+        </div>
+    </div>
+
+</div>
+<div>
+    <div class="col-12 o-giua nen-dong">
+        2017-Thiết kế web bởi trang hoathinhvn.net
+    </div>
+
+</div>
+
 </body>
 </html>
