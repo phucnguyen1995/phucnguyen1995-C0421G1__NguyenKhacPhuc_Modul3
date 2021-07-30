@@ -6,74 +6,71 @@
 
     <style>
         * {
-        box-sizing: border-box;
+            box-sizing: border-box;
         }
 
         .col-1 {
-        width: 8.33%;
+            width: 8.33%;
         }
 
         .col-2 {
-        width: 16.66%;
+            width: 16.66%;
         }
 
         .col-3 {
-        width: 25%;
+            width: 25%;
         }
 
         .col-4 {
-        width: 33.33%;
+            width: 33.33%;
         }
 
         .col-5 {
-        width: 41.66%;
+            width: 41.66%;
         }
 
         .col-6 {
-        width: 50%;
+            width: 50%;
         }
 
         .col-7 {
-        width: 58.33%;
+            width: 58.33%;
         }
 
         .col-8 {
-        width: 66.66%;
+            width: 66.66%;
         }
 
         .col-9 {
-        width: 75%;
+            width: 75%;
         }
 
         .col-10 {
-        width: 83.33%;
+            width: 83.33%;
         }
 
         .col-11 {
-        width: 91.66%;
+            width: 91.66%;
         }
 
         .col-12 {
-        width: 100%;
+            width: 100%;
         }
 
         [class*="col-"] {
-        float: left;
-        padding: 15px;
+            float: left;
+            padding: 15px;
         }
 
         .row::after {
-        content: "";
-        clear: both;
-        display: block;;
+            content: "";
+            clear: both;
+            display: block;;
         }
+
         .nen-den-chu-trang {
-            background-color: black;
             color: white;
-        }
-        .nen-den-chu-den {
             background-color: black;
-            color: black;
         }
 
         .phong-to {
@@ -84,56 +81,120 @@
             text-align: center;
         }
 
+        .ve-ben-phai {
+            text-align: right;
+
+        }
+
+        .phong-to-vua-nen-xam {
+            font-size: 30px;
+            background-color: gray;
+        }
+
+        .hop-box {
+            background-color: rgba(255, 255, 255, 0.66);
+            width: 130px;
+            height: 80px;
+            padding: 18px 30px 30px 30px;
+            border-bottom: 50px;
+        }
+
+        .khoang-cach-2-hop-margin {
+            margin: 30px 30px 30px 30px;
+            font-size: 30px;
+        }
+
+
+        .Footer {
+            height: 50px;
+            background-color: dimgray;
+            clear: both;
+            text-align: center;
+            padding-top: 10px;
+            color: white;
+            font-size: 20px;
+        }
+
+        @media only screen and(max-width: 768px) {
+            [class*="col-"] {
+                width: 100%;
+            }
+        }
+
+
+
     </style>
 </head>
 <body>
-       <div >
-           <div class="col-1 nen-den-chu-trang phong-to">
-               <div class="col-12 o-giua"> Logo</div>
-           </div>
+<div>
+    <div class="col-1 nen-den-chu-trang phong-to">
+        <div class="col-12 o-giua "> Logo</div>
+    </div>
 
-           <div class="col-1 nen-den-chu-trang phong-to">
-               <div class="col-12 o-giua">Home</div>
-           </div>
+    <div class="col-1 nen-den-chu-trang phong-to">
+        <div class="col-12 o-giua">Home</div>
+    </div>
 
-           <div class="col-1 nen-den-chu-trang phong-to">
-               <div class="col-12 o-giua">About</div>
-           </div>
+    <div class="col-1 nen-den-chu-trang phong-to">
+        <div class="col-12 o-giua">About</div>
+    </div>
 
-           <div class="col-1 nen-den-chu-trang phong-to">
-               <div class="col-12 o-giua"> Project </div>
-           </div>
+    <div class="col-1 nen-den-chu-trang phong-to">
+        <div class="col-12 o-giua"> Project</div>
+    </div>
 
-           <div class="col-1 nen-den-chu-trang phong-to">
-               <div class="col-12 o-giua">Contact</div>
-           </div>
+    <div class="col-1 nen-den-chu-trang phong-to">
+        <div class="col-12 o-giua">Contact</div>
+    </div>
 
-           <div class="col-6 nen-den-chu-den phong-to">
-               <div class="col-12 "></div>
-           </div>
+    <div>
+        <div class="col-7 nen-den-chu-trang phong-to ">
+            <div class="col-12 ve-ben-phai ">
+                Login
+            </div>
+        </div>
 
-           <div class="col-1 nen-den-chu-trang phong-to">
-               <div class="col-12 o-giua">Login</div>
-           </div>
+    </div>
 
 
-       </div>
+</div>
+
 
 <div>
-    <div class="col-2">
-        <div class="col-12">
-            <p>link</p>
-            <p>link</p>
-            <p>link</p>
+    <div class="col-2 phong-to-vua-nen-xam" style="height: 700px">
+        <div class="col-12 ">
+            <p style="color: blue">Link</p>
+            <p style="color: blue">Link</p>
+            <p style="color: blue">Link</p>
         </div>
     </div>
 
-    <div class="col-8"></div>
+    <div class="col-8 phong-to">
+        <div class="col-12">
+            <h1>Welcom</h1>
 
-    <div class="col-2"></div>
+            <p>Cũng giống như những con sông khác, con sông quê em cũng uốn lượn như một con rồng. Nó mang hương vị mặn
+                mòi của vùng quê em, vùng quê có di tích lịch sử (đền thờ Tiên La), vùng quê địa linh nhân kiệt. Chính
+                cài hương vị ấy đã gắn bó với em đến từng thớ thịt. Tuy con sông không rộng lắm nhưng nó rất dài.</p>
+
+            <p> Test</p>
+        </div>
+    </div>
+
+    <div class="col-2 phong-to-vua-nen-xam" style="height: 700px">
+        <div class="col-12 o-giua">
+            <p class="hop-box khoang-cach-2-hop-margin">ADS</p>
+            <p class="hop-box khoang-cach-2-hop-margin">ADS</p>
+
+        </div>
+    </div>
 </div>
-<div></div>
-<div></div>
+
+
+<div class="Footer col-12">
+    Footer Text
+</div>
+
 
 </body>
 </html>
