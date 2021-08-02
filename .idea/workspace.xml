@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972f1cb0-915f-4fdc-8f78-4693787757b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_07_/baitap/facebook.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_07_/thuchanh/th1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_07_/thuchanh/th2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_07_/thuchanh/th3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_08_/baitap/bt1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_08_/baitap/bt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_08_/thuchanh/th.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phucnguyen1995-C0421G1__NguyenKhacPhuc_Modul3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phucnguyen1995-C0421G1__NguyenKhacPhuc_Modul3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_07_/baitap/tao_lay_out_rwd.html" beforeDir="false" afterPath="$PROJECT_DIR$/_07_/baitap/tao_lay_out_rwd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_08_/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_/baitap/bt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_08_/baitap/bt1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1627869662758</updated>
       <workItem from="1627869668007" duration="3423000" />
-      <workItem from="1627874141518" duration="6610000" />
+      <workItem from="1627874141518" duration="6914000" />
     </task>
     <servers />
   </component>
