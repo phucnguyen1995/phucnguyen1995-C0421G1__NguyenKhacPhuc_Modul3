@@ -25,13 +25,15 @@ public class DictionaryServlet extends HttpServlet {
         dic.put("book", "Quyển vở");
         dic.put("computer", "Máy tính");
 
-        String result = dic.get(a);
-        if (result != null) {
-            System.out.println("từ" + a+ "nghĩa là" +result);
-        } else {
-            System.out.println("không tồn tại");
-        }
-
+        String b=null;
+       if(dic.containsKey(a)) {
+           b=dic.get(a);
+       }
+       else {
+           b="không tìm thấy trong từ điển này";
+       }
+       request.setAttribute("ok",b);
+       request.getRequestDispatcher("result.jsp").forward(request,response);
 
     }
 }
