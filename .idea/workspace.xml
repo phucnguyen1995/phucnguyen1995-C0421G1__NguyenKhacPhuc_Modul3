@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="972f1cb0-915f-4fdc-8f78-4693787757b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_10_/baitap/bt1/src/bean/customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_/baitap/bt1/src/servlet/CustomerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_/thuchanh/simple-dictionary/web/result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/webapp/customer/Create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/webapp/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/webapp/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/webapp/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/webapp/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_11_/thuchanh/ customer-management/src/main/webapp/error-404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_06_/baitap/bt1/bt1c1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_06_/baitap/bt1/bt1c1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_08_/baitap/bt2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_08_/baitap/bt2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_10_/thuchanh/simple-dictionary/src/th2/DictionaryServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/_10_/thuchanh/simple-dictionary/src/th2/DictionaryServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/TranslationServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +71,9 @@
       <workItem from="1627894409212" duration="302000" />
       <workItem from="1627900820367" duration="826000" />
       <workItem from="1627988954990" duration="628000" />
+      <workItem from="1628002913803" duration="44000" />
+      <workItem from="1628049215624" duration="733000" />
+      <workItem from="1628081978103" duration="32000" />
     </task>
     <servers />
   </component>
