@@ -94,8 +94,8 @@ public class ProductServlet extends HttpServlet {
         Double priceProduct = Double.parseDouble(request.getParameter("price"));
         String descriptionProduct = request.getParameter("description");
         String producer = request.getParameter("producer");
-//        int id = (int) (Math.random() * 10000);
-        int id = Integer.parseInt(request.getParameter("id"));
+        int id = (int) (Math.random() * 10000);
+//        int id = Integer.parseInt(request.getParameter("id"));
 
         Product product = new Product(id, nameProduct, priceProduct,descriptionProduct,producer);
         this.iProductService.save(product);
@@ -159,7 +159,7 @@ public class ProductServlet extends HttpServlet {
         if (product == null) {
             dispatcher = request.getRequestDispatcher("error-404.jsp");
         } else {
-            request.setAttribute("customer", product);
+            request.setAttribute("product", product);
             dispatcher = request.getRequestDispatcher("product/delete.jsp");
         }
         try {

@@ -18,7 +18,7 @@
     </c:if>
 </p>
 <p>
-    <a href="/customers">Back to customer list</a>
+    <a href="/products">Back to product list</a>
 </p>
 <form method="post">
     <fieldset>
@@ -45,7 +45,7 @@
 
             <tr>
                 <td>Nhà Sản Xuất </td>
-                <td><input type="text" name="producer" value="${requestScope["product"]. getProducer}"></td>
+                <td><input type="text" name="producer" value="${requestScope["product"].getProducer()}"></td>
             </tr>
 
             <tr>

@@ -28,11 +28,12 @@
     </tr>
     <c:forEach items='${requestScope["products"]}' var="product">
         <tr>
-            <td><a href="/products?action=view&id=${Product.getId()}">${Product.getId()}</a></td>
-            <td>${Product.getNameProduct()}</td>
-            <td>${Product.getPriceProduct()}</td>
-            <td>${Product.getDescriptionProduct()}</td>
-            <td>${Product. getProducer}</td>
+            <td><a href="/products?action=view&id=${product.getId()}">${product.getId()}</a></td>
+            <td>${product.getNameProduct()}</td>
+            <td>${product.getPriceProduct()}</td>
+            <td>${product.getDescriptionProduct()}</td>
+            <td>${product.getProducer()}</td>
+
             <td><a href="/products?action=edit&id=${product.getId()}">edit</a></td>
             <td><a href="/products?action=delete&id=${product.getId()}">delete</a></td>
         </tr>

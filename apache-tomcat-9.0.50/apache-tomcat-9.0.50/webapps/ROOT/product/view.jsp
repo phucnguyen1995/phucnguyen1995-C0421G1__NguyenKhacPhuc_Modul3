@@ -36,7 +36,7 @@
 
     <tr>
         <td>Nhà Sản Xuất </td>
-        <td>${requestScope["product"]. getProducer}</td>
+        <td>${requestScope["product"]. getProducer()}</td>
     </tr>
 </table>
 
