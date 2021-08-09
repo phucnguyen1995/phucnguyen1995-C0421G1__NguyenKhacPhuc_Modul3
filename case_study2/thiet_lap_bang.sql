@@ -80,7 +80,7 @@ id_khach_hang int,
 id_dich_vu int,
 
 foreign key (id_nhan_vien) references nhan_vien(id_nhan_vien), 
-foreign key (id_khach_hang) references khach_hang(id_khach_hang),
+classforeign key (id_khach_hang) references khach_hang(id_khach_hang),
 foreign key (id_dich_vu) references dich_vu(id_dich_vu));
 
 
