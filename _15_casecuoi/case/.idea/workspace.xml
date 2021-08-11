@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fd7120c-969e-4e6a-9cd4-8eab15c119f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../_13_/baitap13/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_06_/baitap/bt1/bt1c1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../_06_/baitap/bt1/bt1c1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../_11_/thuchanh/ customer-management/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/controller/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/dao/BaseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/model/bean/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/model/repository/IStudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/model/repository/impl/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/model/service/IStudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/classes/java/main/model/service/impl/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/libs/c04g-mvc-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/controller/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/model/bean/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/model/repository/IStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/model/repository/impl/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/model/repository/impl/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/model/service/IStudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/java/model/service/impl/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/c04g-mvc/src/main/webapp/update_student.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/controller/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/model/bean/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/model/repository/IStudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/model/repository/impl/BaseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/model/repository/impl/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/model/service/IStudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/classes/java/main/model/service/impl/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/libs/luyentaponha-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/controller/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/model/bean/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/model/repository/IStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/model/repository/impl/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/model/repository/impl/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/model/service/IStudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/java/model/service/impl/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/khuonmau/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/controller/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/model/bean/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/model/repository/IStudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/model/repository/impl/BaseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/model/repository/impl/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/model/service/IStudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/classes/java/main/model/service/impl/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/libs/luyentaponha-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/controller/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/model/bean/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/model/repository/IStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/model/repository/impl/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/model/repository/impl/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/model/service/IStudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/java/model/service/impl/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/New folder/luyentaponha/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/controller/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/model/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/model/repository/IUserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/model/repository/impl/BaseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/model/repository/impl/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/model/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/classes/java/main/model/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/libs/luyentaponha-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/controller/UserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/model/bean/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/model/repository/IUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/model/repository/impl/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/model/repository/impl/UserRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/model/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/java/model/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/user/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/user/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/user/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/user/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/user/search.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_12_/thuchanh/baitap12/src/main/webapp/user/sort.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/controller/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/model/bean/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/model/repository/IStudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/model/repository/impl/BaseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/model/repository/impl/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/model/service/IStudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/classes/java/main/model/service/impl/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/libs/luyentaponha-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/controller/StudentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/model/bean/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/model/repository/IStudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/model/repository/impl/BaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/model/repository/impl/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/model/service/IStudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/java/model/service/impl/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../_13_/thuchanh/khuonmau/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/model/repository/IUserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/model/repository/IUserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/model/repository/impl/UserRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/model/repository/impl/UserRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/model/service/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/WEB-INF/classes/model/service/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/user/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/user/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/user/sort.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../apache-tomcat-9.0.50/apache-tomcat-9.0.50/webapps/ROOT/user/sort.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study2/chen_so_lieu.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study2/eer_furuma.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study2/thiet_lap_bang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study2/truy_van_du_lieu.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1wZ3ZI60YlvGaY4L78K4uoXoPu2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fd7120c-969e-4e6a-9cd4-8eab15c119f8" name="Default Changelist" comment="" />
+      <created>1628652337176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628652337176</updated>
+      <workItem from="1628652338392" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1628652379590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1628652379590" />
+    <state x="65" y="0" key="new project wizard" timestamp="1628652402129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1628652402129" />
+  </component>
+</project>
